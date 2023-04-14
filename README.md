@@ -9,7 +9,7 @@
 			- Microsoft.EntityFrameworkCore.SqlServer
 			- Microsoft.EntityFrameworkCore.Tools
 		
-3.	create dbContext class 
+3.	create dbContext class :-
 			- create folder Data
 			- create 'McvTestDbContext.cs' class
 			- inherite it from 'DbContext' class
